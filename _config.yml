@@ -1,5 +1,5 @@
 title:            CodeWalker
-description:      Describe your website here.
+description:      JunWang personal blog
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -11,12 +11,12 @@ url: https://jstzwj.github.io/CodeWalker.github.io/
 owner:
   name:           JunWang
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  bio:            "SooChow University student."
   email:          jstzwj@aliyun.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         https://github.com/jstzwj
   stackexchange:  
   linkedin:       
   instagram:      
